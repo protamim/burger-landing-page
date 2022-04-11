@@ -1,0 +1,76 @@
+@media (max-width: 767px) {
+    /* Banner Top */
+    .inner_banner h1 {
+        font-size: 65px;
+        font-weight: 600;
+    }
+    .inner_banner p {
+        font-size: 28px;
+    }
+    /* Chef Area */
+    .chef_top_text h1 {
+        font-size: 65px;
+        font-weight: 600;
+    }
+    /* Best Burger */
+    .burger_content p {
+        font-size: 25px;
+    }
+    .burger_content h2 {
+        font-size: 65px;
+        font-weight: 600;
+    }
+    /* Big Burger */
+    .big_burger_content {
+        margin-top: 50px;
+    }
+    /* Counter Area */
+    .counter_text h2 {
+        font-size: 65px;
+        font-weight: 600;
+    }
+    /* Our Package Area */
+    .pckg_top_text h2 {
+        font-size: 62px;
+        font-weight: 600;
+    }
+    .pkg_box {
+        margin-bottom: 30px;
+    }
+    .pkg_box p {
+        padding: 0 25px;
+    }
+    /* Testimonial Area */
+    .tsmnl_text p {
+        font-size: 25px;
+        font-weight: 500;
+    }
+    /* Newsletter Area */
+    .newsletter_top h2 {
+        font-size: 46px;
+        font-weight: 600;
+    }
+    .newsletter_content p {
+        font-size: 25px;
+    }
+    .form_part input {
+        border-radius: 50px;
+    }
+    .form_button {
+        margin-top: 25px;
+    }
+    .sub_btn {
+        border-radius: 50px;
+        width: 100%;
+        font-size: 25px;
+        font-weight: 500;
+    }
+    /* Footer Area */
+    .social_links {
+        margin-bottom: 65px;
+    }
+    .footer_links {
+        margin-bottom: 30px;
+    }
+
+}
